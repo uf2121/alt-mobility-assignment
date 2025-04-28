@@ -20,7 +20,8 @@ Payment Trends:
 
 Payment success and failure rates were examined. Nevertheless, in all months, the data appears to record zero successful or failed transactions in the given dataset.
 
-Observations from Customer Retention Analysis
+Observations from Customer Retention Analysis:
+
 Retention Rates:
 
 The customer retention rates decline sharply after the first purchase month for all cohorts.
@@ -39,6 +40,8 @@ But repeat customer numbers are much lower, indicating a deficiency in customer 
 
 
 Recommendations for Alt Mobility
+
+
 Enhance First 30 Days Engagement:
 As churn is most intense immediately following the initial purchase, use onboarding initiatives, loyalty rewards, and tailored email reminders to keep consumers longer.
 
