@@ -1,5 +1,7 @@
                                                 Key Observations based on SQL Queries
 
+                                                
+
                   Order Status Breakup:
 
 Most orders are pending, delivered, or shipped, with slightly more 'pending' orders in number than 'delivered' orders.
@@ -20,7 +22,9 @@ Payment Trends:
 
 Payment success and failure rates were examined. Nevertheless, in all months, the data appears to record zero successful or failed transactions in the given dataset.
 
+
                  Observations from Customer Retention Analysis:
+                 
 
 Retention Rates:
 
@@ -40,6 +44,7 @@ But repeat customer numbers are much lower, indicating a deficiency in customer 
 
 
                 Recommendations for Alt Mobility
+
                 
 
 Enhance First 30 Days Engagement:
