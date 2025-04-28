@@ -1,4 +1,4 @@
-Key Observations based on SQL Queries
+                                                Key Observations based on SQL Queries
 
 Order Status Breakup:
 
@@ -38,12 +38,7 @@ But repeat customer numbers are much lower, indicating a deficiency in customer 
 
 
 
-
-
-
-
-
-commendations for Alt Mobility
+Recommendations for Alt Mobility
 Enhance First 30 Days Engagement:
 As churn is most intense immediately following the initial purchase, use onboarding initiatives, loyalty rewards, and tailored email reminders to keep consumers longer.
 
